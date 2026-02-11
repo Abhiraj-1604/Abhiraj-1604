@@ -2,7 +2,6 @@
  
 Hi 👋 I'm Abhiraj  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working with AWS, GCP, Kubernetes, Terraform & CI/CD  <br>🔄 Passionate about automation, cloud migrations, and scalable infrastructure  <br>📈 Always learning and building production-ready systems  <br><br>Currently exploring advanced DevOps, distributed systems, and high-scale architectures.<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhiraj_1604) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiraj-rode-36232522a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vilgilant_acer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhirajrode2004@gmail.com) 
 
