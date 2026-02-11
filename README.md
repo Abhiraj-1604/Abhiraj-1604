@@ -25,8 +25,10 @@ Hi 👋 I'm Abhiraj  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working wi
 
 
  
-<p align="center">
-<img width="1000" src="https://github.com/Raghavkhandelwal12/Raghavkhandelwal12/raw/main/assets/github-snake.svg" alt="snake"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhiraj-1604/Abhiraj-1604/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhiraj-1604/Abhiraj-1604/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abhiraj-1604/Abhiraj-1604/output/pacman-contribution-graph.svg">
+</picture>
 
  
